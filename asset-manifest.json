@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/analisador-lexico/static/css/main.e6c13ad2.css",
+    "main.js": "/analisador-lexico/static/js/main.058803b7.js",
+    "static/js/453.1b1ddce4.chunk.js": "/analisador-lexico/static/js/453.1b1ddce4.chunk.js",
+    "index.html": "/analisador-lexico/index.html",
+    "main.e6c13ad2.css.map": "/analisador-lexico/static/css/main.e6c13ad2.css.map",
+    "main.058803b7.js.map": "/analisador-lexico/static/js/main.058803b7.js.map",
+    "453.1b1ddce4.chunk.js.map": "/analisador-lexico/static/js/453.1b1ddce4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.058803b7.js"
+  ]
+}
